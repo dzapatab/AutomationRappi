@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"API","Consume API con el metodo GET","SUCCESS","2021-08-03T20:39:17.122-05:00[America/Bogota]","0.0","4.09"
+"API","Consume API con el metodo POST","SUCCESS","2021-08-03T20:39:21.217-05:00[America/Bogota]","0.0","0.74"
+"API","Consume API con el metodo PUT","SUCCESS","2021-08-03T20:39:21.955-05:00[America/Bogota]","0.0","0.7"

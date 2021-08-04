@@ -1,0 +1,11 @@
+{
+  "deviceName": "emulator-5554",
+  "platformName": "Android",
+  "platformVersion": "10",
+  "appPackage": "com.google.android.calculator",
+  "appActivity": "com.android.calculator2.Calculator",
+  "noReset": "false",
+  "app": "resources/apk/calculator-7-8-271241277.apk",
+  "autoGrantPermissions": "true",
+  "appLocale": "{\"language\": \"es\", \"country\": \"CO\"}"
+}
